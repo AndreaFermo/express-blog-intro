@@ -1,0 +1,49 @@
+[
+    {
+        "title": "I miei progetti",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "projects.png",
+        "tags": [
+            "innovazione",
+            "programmazione",
+            "tecnologia"
+        ]
+    },
+    {
+        "title": "Le mie idee",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "ideas.jpg",
+        "tags": [
+            "sostenibilità",
+            "futuro"
+        ]
+    },
+    {
+        "title": "La mia storia",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "story.JPEG",
+        "tags": [
+            "esperienze",
+            "progetti"
+        ]
+    },
+    {
+        "title": "I miei viaggi",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "travels.JPEG",
+        "tags": [
+            "svago",
+            "italia",
+            "estero"
+        ]
+    },
+    {
+        "title": "La mia azienda",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "company.JPEG",
+        "tags": [
+            "schiavitù",
+            "torture"
+        ]
+    }
+]
